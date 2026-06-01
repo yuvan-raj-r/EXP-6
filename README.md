@@ -8,7 +8,20 @@ APPARATUS: - LVDT kit, Multimeter
 THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 DIAGRAM:
-CIRCUIT DIAGRAM
+
+<img width="1632" height="716" alt="image" src="https://github.com/user-attachments/assets/a2ba1bcf-10c5-40b3-af5e-ed9ccc66bc74" />
+positive displacement:
+
+<img width="1217" height="453" alt="image" src="https://github.com/user-attachments/assets/0af56be8-01d3-48b3-a004-0904fdde2eb8" />
+
+negative displacement:
+
+<img width="1218" height="459" alt="image" src="https://github.com/user-attachments/assets/91e1e831-5dcc-4667-8b25-56311a7a71bf" />
+
+CIRCUIT DIAGRAM:
+
+<img width="1280" height="1008" alt="image" src="https://github.com/user-attachments/assets/5a9350bc-9c3e-4ad2-8dfc-65ef9c2479c9" />
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -17,7 +30,9 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 
-OBSERVATION TABLE
+OBSERVATION TABLE:
+<img width="1280" height="679" alt="image" src="https://github.com/user-attachments/assets/606bdd04-b3af-4865-bd15-ff78cc36bb7d" />
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
